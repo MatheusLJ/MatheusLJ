@@ -1,6 +1,6 @@
 ### Opa, Matheus aqui... 🙄
 
-- 🌱 Estudando PHP, Java e MySQL. 
+- 🌱 Estudando JavaScript, TypeScript e outros... 
 - 📫 Contato > mleitejesus@gmail.com
 
 
