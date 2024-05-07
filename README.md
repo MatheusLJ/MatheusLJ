@@ -1,6 +1,6 @@
 ### Opa, Matheus aqui... 🙄
 
-- 🌱 Estudando JavaScript, TypeScript e outros... 
+- 🌱 Estudando ReactJS e outros... 
 - 📫 Contato > mleitejesus@gmail.com
 
 
