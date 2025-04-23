@@ -1,6 +1,6 @@
-### Opa, Matheus aqui... 🙄
+### Matheus aqui... 🙄
 
-- 🌱 Estudando ReactJS e outros... 
+- 🌱 Estudando Python e outros... 
 - 📫 Contato > mleitejesus@gmail.com
 
 
